@@ -1,3 +1,4 @@
 # Simple PHP Shorturl
 
-- meowkrep89
+- azwar11
+- meowcraftY
